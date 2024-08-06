@@ -5,4 +5,6 @@
 layout: home
 ---
 
-This is homepage.
+This is the homepage.
+
+<p><img src='/images/ben.jpg' alt='Ben Baker, yesterday'></p>
