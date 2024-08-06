@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Radio!
-permalink: /portfolio/
+permalink: /radio/
 ---
 
-Portfolio!
+Radio!
